@@ -1,0 +1,576 @@
+
+/* ==================  header section start here  ========================*/
+
+/* ==================   header section end here   ========================*/
+
+nav{
+    background: linear-gradient(
+        107.07deg
+        ,#684efb -6.64%,#5a00dd 89.11%);
+}
+
+.heroare{
+    background: linear-gradient(
+     107.07deg
+     ,#684efb -6.64%,#5a00dd 89.11%);
+    position: relative;
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+ .nav-item .ourClass{
+    color: white !important;
+}
+
+.navbar .navbar-brand img{
+    height: 35px;
+}
+
+
+ .nav-item .nav-link{
+    color: wheat !important;
+    display: inline-block;
+    font-size: 17px !important;
+}
+.nav-item .nav-link img{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+ .nav-item{
+    padding-left: 10px !important;
+   
+}
+
+.carousel-caption{
+    overflow: hidden;
+    left: 4%;
+    position: relative;
+}
+.carousel-caption h2{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 60px;
+    text-align: left;
+    color: white;
+}
+.carousel-caption p{
+    font-size: 14px;
+    text-align: left;
+    font-weight: 500;
+    line-height: 30px;
+}
+.heroare .fancy-btn{
+    border-radius: 50px;
+    border: none;
+    padding-left: 45px;
+    padding-right: 6px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    
+}
+.heroare .fancy-btn:hover{
+    background: linear-gradient(45deg ,#ff35b4,#ff193f);
+}
+.carousel-inner{
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+.heroare .fancy-btn span{
+    background: #fff;
+    border-radius: 50%;
+    padding: 8px 13px;
+    color: #ff193f;
+    margin-left: 10px;
+}
+.fourth-img{
+    height: 100%;
+    width: 100%;
+}
+
+
+/* ==================  notice section  ========================*/
+
+/* ==================  notice section   ========================*/
+
+.notice .notice-wrapper{
+    box-shadow: 0 15px 20px 0 rgb(55 84 170 / 10%);
+    border-radius: 20px;
+    
+}
+.section-title{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 58px;
+    color: #000;
+}
+.noticeInfo h5{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 29px;
+    color: #000;
+}
+.noticeInfo .one{
+    background-image: linear-gradient(
+        -45deg
+        ,#5a00dd,#684efb);
+}
+.noticeInfo i{
+    text-align: center;
+    border-radius: 5px;
+    color: #fff;
+    width: 25px;
+    height: 25px;
+    font-size: 12px;
+    padding-top: 7px;
+    margin-right: 12px;
+}
+.noticeInfo .two{
+    background-image: linear-gradient(
+    -45deg
+    ,#fc5e51,#f59e75);
+}
+
+.noticeInfo .three {
+    background-image: linear-gradient(
+-45deg
+,#ff9c35,#ffd019);
+}
+
+.noticeInfo .four {
+    background-image: linear-gradient(
+        -45deg
+        ,#ff193f,#ff35b4);
+}
+.bg-primary h5{
+    font-family: Hind Siliguri;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 29px;
+    color: #000;
+    margin-right: 130px !important;
+}
+.bg-primary{
+    background: linear-gradient(
+        45deg
+        ,#5a00dd,#684efb) !important;
+}
+
+.notice .shadow{
+    box-shadow: 0 4px 20px rgba(0,0,0,.1)!important;
+}
+.rounded{
+    border-radius: 40px !important;
+}
+
+.notice .fancy-btn{
+    border-radius: 50px;
+    border: none;
+    padding-left: 45px;
+    padding-right: 6px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    
+}
+.notice .fancy-btn span{
+    background: #fff;
+    border-radius: 50%;
+    padding: 8px 13px;
+    color: #ff193f;
+    margin-left: 10px;
+}
+.notice .fancy-btn:hover{
+    background: linear-gradient(45deg ,#ff35b4,#ff193f);
+}
+.noticeLay{
+    transform: translateY(-80px);
+}
+
+
+
+/* ==================  course criteria  ========================*/
+
+/* ==================  course criteria   ========================*/
+
+.course-criteria .section-title{
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 58px;
+    color: #000;
+}
+.course-criteria .preview-card{
+    padding: 25px 30px!important;
+}
+.course-criteria .shadow{
+    box-shadow: 0 4px 20px rgba(0,0,0,.1)!important;
+}
+.enroll-card{
+    border-radius: 16px;
+    font-weight: 300;
+    background-color: #fff;
+}
+.preview-card .timer{
+    background: linear-gradient(180deg,#684efb .01%,#5a00dd 100.01%);
+    border-radius: 10px;
+    padding: 14px 10px;
+    color: #fff;
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 15px;
+}
+.preview{
+    position: relative;
+}
+.playImg img{
+    position: absolute;
+    top: calc(50% - 47px);
+    left: calc(50% - 47px);
+}
+.totalImg img{
+    border-radius: 10px;
+    margin-bottom: 12px;
+}
+.status h3{
+    margin-bottom: 0;
+    margin-top: 10px;
+    font-size: 20px;
+}
+.status p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #636363;
+}
+.count .download4{
+    margin: 2px;
+    flex: auto;
+    flex-wrap: wrap;
+    display: flex;
+    background: #fff;
+    box-shadow: 0 10px 40px rgb(0 0 0 / 5%);
+    align-items: center;
+    border-radius: 57.2653px;
+    padding: 8px 15px 8px 8px;
+}
+.count .download4 img{
+    width: 24px;
+    height: 24px;
+    margin-right: 5px;
+}
+.count .download4 p{
+    margin: 0;
+    font-size: 12px;
+    font-weight: 500;
+}
+.taka{
+    font-size: 36px;
+    line-height: 54px;
+    color: #303030;
+}
+.course-criterias ul li{
+    display: flex;
+    margin-bottom: 35px;
+}
+.course-criterias ul li span{
+    background: linear-gradient(
+        75deg
+        ,#fc5e51,#f59e75);
+}
+
+.course-criterias ul li span{
+    background: linear-gradient(
+        75deg
+        ,#fc5e51,#f59e75);
+    width: 26px;
+    height: 26px;
+    padding: 5px 5px 5px 6px;
+    border-radius: 4px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-right: 12px;
+    color: white;
+}
+
+
+
+
+/* ================== course information  ========================*/
+
+/* ==================  course information   ========================*/
+
+.course-information-component{
+    background-color: #f5f7ff!important;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#home-tab{
+    text-align: center;
+}
+.course-information-heading ul{
+    border-radius: 11px;
+    background-color: #fff;
+    max-width: 514px;
+    width: 100%;
+    box-shadow: 0 5.64912px 14.1228px rgb(0 0 0 / 10%);
+    border-radius: 10px;
+   margin: auto;
+   border: none !important;
+}
+.nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover{
+    border: none;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    border: none;
+    border-bottom: 5px solid #6c6c6c !important;
+    border-radius: 6px;
+    
+}
+.nav-tabs .nav-link{
+    border: none !important;
+    border-top: none;
+}
+.nav-item{
+    padding-left: 14px !important;
+}
+.nav-item h4{
+    font-size: 40px;
+    color: #6c6c6c;
+}
+.nav-item h5{
+    color: #6c6c6c;
+}
+.card{
+    border: none;
+}
+.course-objective-component img{
+    height: 100px;
+    width: 100px;
+    margin-left: 20px;
+}
+.course-objective-component .card-body{
+    padding: 13px;
+}
+.course-objective-component .card-body h5{
+    font-size: 17px;
+}
+.course-objective-component .card-body p{
+    font-size: 14px;
+}
+.card-shadow{
+    box-shadow: 0 30px 80px 0 rgb(55 84 170 / 10%);
+    border-radius: 16px;
+}
+.course-objective-component2 h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #ced2d8!important;
+    font-weight: 700;
+    margin-top: -27px;
+}
+.course-objective-component2 p{
+    font-size: 14px;
+}
+.extraPadding{
+    padding: 34px !important;
+}
+.cardEnroll{
+    box-shadow: 0 4px 20px rgba(0,0,0,.1)!important;
+    border-radius: 16px;
+    font-weight: 300;
+    background-color: #fff;
+}
+.cardEnroll img{
+    border-radius: 13px;
+    height: 100%;
+    width: 100%;
+}
+
+.course-content .fancy-btn{
+    border-radius: 50px;
+    border: none;
+    padding-left: 45px;
+    padding-right: 6px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    transition: 0.5s;
+   
+}
+.course-content .fancy-btn:hover{
+    background: linear-gradient(45deg ,#ff35b4,#ff193f);
+}
+
+.course-content .fancy-btn span{
+    background: #fff;
+    border-radius: 50%;
+    padding: 8px 13px;
+    color: #ff193f;
+    margin-left: 10px;
+}
+.wrap{
+    height: 400px;
+    overflow-y: auto;
+}
+.wrap::-webkit-scrollbar{
+    width: 10px;
+    background: #ddd;
+    border-radius: 50px;
+}
+.wrap::-webkit-scrollbar-thumb{
+    background: #636f83;
+    border-radius: 5px;
+}
+.milestone-title{
+    margin-bottom: 20px !important;
+    cursor: pointer;
+    font-weight: 500!important;
+    color: #1e1e1e;
+}
+
+.frequently-asked-component{
+    background: linear-gradient(
+     107.07deg
+     ,#684efb -6.64%,#5a00dd 89.11%);
+    
+}
+.backgrounCard{
+    background-color: #5930e1;
+    margin-bottom: 15px !important;
+    border-radius: 12px !important;
+}
+
+.card-header{
+    border: none;
+}
+.btn.focus, .btn:focus {
+    box-shadow: none;
+}
+.btn-link:hover{
+    text-decoration: none;
+}
+.btn-link{
+    text-decoration: none !important;
+}
+.btn-link h5{
+    font-size: 19px ;
+    color: white;
+}
+.freInfo{
+    color: white;
+    font-size: 16px;
+}
+
+.btn-link::after{
+    content: '\2212';
+    width: 35px;
+    font-size: 25px;
+    text-align: center;
+    border-radius: 5px;
+    left: 0px;
+    top: 8px;
+    position: absolute;
+    color: white;
+}
+
+.btn-link.collapsed::after{
+    content: '\002B';
+    color: white;
+}
+
+
+                                    
+
+
+                                   
+
+
+
+
+
+
+
+
+
+
+
+
+/* ==========================================*/
+
+            /* RESPONSIVE CSS START HERE */
+
+/* ==========================================*/
+
+
+@media(max-width: 1200px){
+    .carousel-caption h2{
+        font-size: 37px;
+        
+    }
+    .notice .fancy-btn{
+        display: inline-flex;
+    }
+    .carousel-caption p{
+        font-size: 12px;
+        
+    }
+}
+@media(max-width: 992px){
+    .carousel-caption h2{
+        font-size: 34px;
+        
+    }
+    .notice .fancy-btn{
+        display: inline-block !important;
+    }
+    .bg-primary h5{
+        margin-right: 0px !important;
+    }
+  
+}
+@media(max-width: 768px){
+    .nav-item .nav-link{
+        font-size: 15px !important;
+    }
+    .navbar .navbar-brand img{
+        height: 30px;
+    }
+}
+@media(max-width: 540px){
+    .nav-item h5{
+        font-size: 13px;
+    }
+    .nav-item h4{
+        font-size: 24px;
+    }
+    .course-information-heading ul{
+        max-width: 380px;
+        width: 100%;
+    }
+}
+@media(max-width: 321px){
+    .navbar .navbar-brand img{
+        height: 28px;
+    }
+    .nav-item h4{
+        font-size: 20px;
+    }
+}
+@media(max-width: 394px){
+    .nav-item h5{
+        font-size: 10px;
+    }
+    .course-information-heading ul{
+        max-width: 340px;
+        width: 100%;
+    }
+}
+
